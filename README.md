@@ -24,3 +24,4 @@ A modern Solana wallet adapter interface built with React and Vite, providing es
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahuldadhich26/wallet-adapter.git
+
